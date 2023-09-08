@@ -1,0 +1,96 @@
+*{
+    margin: 5px;
+}
+
+.header{
+    
+    border: solid white;
+    
+    border-radius: 44px;
+    text-align: center;
+    box-shadow: 0px 1px 5px;
+    font-size: 38px;
+    font-weight: 400;
+}
+
+.addcontact{
+    margin: 35px 35px 15px ;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.card{
+    border: solid rgb(221, 214, 214) 2px;
+    border-radius: 11px;
+    box-shadow: 0px 1px 5px;
+    width: 711px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.box2{
+    width: 60%;
+    padding-left: 70px;
+}
+
+
+.img{
+    padding-left: 10px;
+    height: 74px;
+}
+
+.name{
+    font-size: 21px;
+    margin: 12px 34px 12px;
+}
+.email{
+    font-size: 21px;
+    margin: 12px 34px 12px
+}
+.icon{
+    position: absolute;
+    top: 12px;
+    right: 5px;
+    font-size: 49px;
+    color: #bd5151;
+}
+.input1{
+    margin-left: 12px;
+    height:15px ;
+    width: 700px;
+    border: 1px black solid;
+    border-radius: 5px;
+
+    
+}
+.input2{
+    margin-left: 16px;
+    height:15px; 
+    width: 700px;
+    border: 1px black solid;
+    border-radius: 5px;
+}
+
+.main{
+    border: 3px rgb(221, 214, 214) solid;
+    border-radius: 16px;
+    margin-top: 23px;
+}
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 3px;
+    width: 65px;
+    margin-bottom: 10px;
+    margin-top: 42px
+}
